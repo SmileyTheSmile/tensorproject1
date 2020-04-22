@@ -1,0 +1,23 @@
+{
+  "name": "tensor_project1",
+  "version": "1.0.1",
+  "description": "cool",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmileyTheSmile/tensorproject1.git"
+  },
+  "author": "Daniil Kapitanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmileyTheSmile/tensorproject1/issues"
+  },
+  "homepage": "https://github.com/SmileyTheSmile/tensorproject1#readme"
+}
