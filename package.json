@@ -1,15 +1,16 @@
 {
   "name": "tensor_project1",
-  "version": "1.0.1",
-  "description": "cool",
+  "version": "1.0.2",
+  "description": "The first project for Tensor.",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
   },
-  "devDependencies": {},
+  "devDependencies": {},  
   "scripts": {
-    "test": "lol"
+    "start": "node index.js"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SmileyTheSmile/tensorproject1.git"
